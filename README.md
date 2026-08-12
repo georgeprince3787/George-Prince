@@ -3,12 +3,12 @@
 GitHub Setup
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=75&pause=1000&color=FFB300&center=true&vCenter=true&width=900&height=120&lines=Hello!+I'm+George+Prince" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Caveat&size=75&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=120&lines=Hello!+I'm+George+Prince" />
 </p>
 
 <div align="center">
 
-🔗 **GitHub:** [georgeprince3787/NexTalk](https://github.com/georgeprince3787)
+🔗 **GitHub:** [georgeprince3787](https://github.com/georgeprince3787)
 
 </div>
 
@@ -23,7 +23,7 @@ GitHub Setup
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeprince3787&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=georgeprince3787&theme=tokyonight&hide_border=true" />
 
 <br />
 
