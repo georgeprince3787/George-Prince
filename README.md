@@ -45,7 +45,7 @@ and building real-world applications.
 
 # 🏆 Achievements
 
-* 💻 100+ Day **LeetCode Streak**
+* 💻 **Active on LeetCode**
 * 🧠 Built end-to-end **ML pipelines** (regression, classification, deployment)
 * 🚀 Actively building full-stack & AI-powered projects
 
@@ -104,11 +104,3 @@ and building real-world applications.
 * 🔹 Passionate about problem-solving and optimization
 
 ---
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/georgeprince3787/georgeprince3787/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
