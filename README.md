@@ -8,8 +8,7 @@ GitHub Setup
 
 <div align="center">
 
-🔗 **GitHub:** [georgeprince3787/NexTalk](https://github.com/georgeprince3787/NexTalk)
-🌐 **Live Website:** [nex-talk-2k26.vercel.app](https://nex-talk-2k26.vercel.app/)
+🔗 **GitHub:** [georgeprince3787/NexTalk](https://github.com/georgeprince3787)
 
 </div>
 
